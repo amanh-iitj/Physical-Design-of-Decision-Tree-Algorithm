@@ -3,9 +3,13 @@
 ## Introduction
 - This project demonstrates the ASIC implementation of a Decision Tree model for hardware acceleration. It involves:
 
-- a) Design entry using Verilog.
-- b) Synthesis of the RTL design using Cadence Genus.
-- c) Physical implementation (floorplanning, placement, and routing) using Cadence Innovus.
+a) Design entry using Verilog.
+
+ 
+b) Synthesis of the RTL design using Cadence Genus.
+
+ 
+c) Physical implementation (floorplanning, placement, and routing) using Cadence Innovus.
 
 
 
